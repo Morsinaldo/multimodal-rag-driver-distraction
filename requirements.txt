@@ -1,0 +1,12 @@
+numpy
+seaborn
+scikit-learn
+matplotlib
+openai==0.28
+torch
+open_clip_torch
+langchain
+langchain_community
+langchain_experimental
+langchain_openai
+chromadb
